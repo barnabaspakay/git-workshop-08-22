@@ -6,4 +6,6 @@
 1. git clone
 2. git add
 3. git commit
-4. git pull/push 
+4. git pull/push
+pull: lehúzza a szerverről a legfrissebb verziót
+push : feltölti a szerverre a legfrissebb verziót
