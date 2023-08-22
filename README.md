@@ -1,4 +1,4 @@
-# Git Workshop 08.22
+# Git Workshop 2023.08.22
 
 1. commit -> checkpoints in project history
 
